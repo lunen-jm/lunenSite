@@ -1,10 +1,12 @@
 ---
 title: "Blog"
-description: "Follow our mission to make the easiest and most fun Hugo theme for building modern documentation websites."
+description: "Stories and quick reports will eventually be added to here, as well as the showcase!"
 date: 2020-10-06T08:49:55+00:00
 lastmod: 2020-10-06T08:49:55+00:00
 draft: false
 images: []
 ---
 
-Follow our mission to make the easiest and most fun Hugo theme for building modern documentation websites.
+Stories and quick reports will eventually be added to here, as well as the showcase!
+
+(just have the showcase card link to the blog post)
