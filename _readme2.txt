@@ -19,4 +19,12 @@ Current plans:
     * Showcase will be for projects and executables
     * Blog will be some fun reports I eventually try
 
-* In progress of creating .md documents and transferring everything over. If something doesn't work rn, its due to partials referencing parts of docs that has changed now!
+* In progress of creating .md documents and transferring everything over. If something doesn't work rn, its due to partials referencing parts of docs that has changed now (check index.html!)!
+
+Folder conversion in content:
+Overview > General (general)
+Tutorial > Statistics (statistics)
+How-to > ""
+Reference > Charts and Graphics (charts)
+Contributing > Tools (tools)
+Help > Miscellaneous Docs (miscOthers)

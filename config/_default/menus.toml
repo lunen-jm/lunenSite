@@ -11,10 +11,10 @@
   url = "/docs/statistics/"
 
 [[docs]]
-  name = "Miscellaneous"
+  name = "How-To"
   weight = 30
-  identifier = "miscOthers"
-  url = "/docs/miscOthers/"
+  identifier = "how-to"
+  url = "/docs/how-to/"
 
 [[docs]]
   name = "Charts"
@@ -29,10 +29,10 @@
   url = "/docs/tools/"
 
 [[docs]]
-  name = "Help"
+  name = "Miscellaneous Others"
   weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  identifier = "miscOthers"
+  url = "/docs/miscOthers/"
 
 # [[docs]]
 #   name = "Lorem"
