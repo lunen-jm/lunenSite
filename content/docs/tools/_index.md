@@ -1,5 +1,5 @@
 ---
-title: "Contributing"
+title: "Rmd, Git, and Shiny"
 description: "Find out how to contribute to Doks."
 lead: ""
 date: 2020-11-12T20:10:52+01:00

@@ -18,3 +18,5 @@ Current plans:
     * Use docs for R, and then once that is figured out, try to make a new docs folder for other programming languages. May need to edit a lot of the docs stuff / copy it so everything that says "docs" says "R" instead, and vice versa
     * Showcase will be for projects and executables
     * Blog will be some fun reports I eventually try
+
+* In progress of creating .md documents and transferring everything over. If something doesn't work rn, its due to partials referencing parts of docs that has changed now!

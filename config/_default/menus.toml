@@ -1,32 +1,32 @@
 [[docs]]
-  name = "Overview"
+  name = "General"
   weight = 10
-  identifier = "overview"
-  url = "/docs/overview/"
+  identifier = "general"
+  url = "/docs/general/"
 
 [[docs]]
-  name = "Tutorial"
+  name = "Statistics"
   weight = 20
-  identifier = "tutorial"
-  url = "/docs/tutorial/"
+  identifier = "statistics"
+  url = "/docs/statistics/"
 
 [[docs]]
-  name = "How-to Guides"
+  name = "Miscellaneous"
   weight = 30
-  identifier = "how-to"
-  url = "/docs/how-to/"
+  identifier = "miscOthers"
+  url = "/docs/miscOthers/"
 
 [[docs]]
-  name = "Reference"
+  name = "Charts"
   weight = 40
-  identifier = "reference"
-  url = "/docs/reference/"
+  identifier = "charts"
+  url = "/docs/charts/"
 
 [[docs]]
-  name = "Contributing"
+  name = "Tools"
   weight = 50
-  identifier = "contributing"
-  url = "/docs/contributing/"
+  identifier = "tools"
+  url = "/docs/tools/"
 
 [[docs]]
   name = "Help"
