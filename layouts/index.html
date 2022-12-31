@@ -6,7 +6,7 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.Lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "docs/general/introduction/" | relURL }}" role="button">Get Started</a>
+      <p> <!-- class="btn btn-primary btn-lg px-4 mb-2" href="{{ "docs/general/introduction/" | relURL }}" role="button"-->Get Started</p>
       <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "https://raw.githubusercontent.com/h-enk/doks/master/package.json" }}{{ $data.version }}</a></p>
     </div>
   </div>
@@ -21,7 +21,7 @@
 {{ if ne (hugo.Environment) "development" -}}
 <div class="container">
   <div class="d-flex justify-content-center">
-    {{ partial "main/carbonads.html" . }}
+    <!-- {{ partial "main/carbonads.html" . }} -->
   </div>
 </div>
 {{ end -}}
@@ -109,12 +109,12 @@
       <div class="col-lg-7">
         <p class="fs-4 mt-4">{{ ":star:" | emojify }}</p>
         <h2 class="h4 mt-0">Manage the modern web</h2>
-        <p>The modern web is decoupled and modular. Doks uses npm to centralize dependency management, making it <a href="{{ "docs/miscOthers/how-to-update/" | relURL }}">easy to update</a> resources, build tooling, plugins, and build scripts.</p>
+        <p>The modern web is decoupled and modular. Doks uses npm to centralize dependency management, making it easy to update resources, build tooling, plugins, and build scripts.</p>
       </div>
       <div class="col-lg-7">
         <p class="fs-4 mt-4">{{ ":rocket:" | emojify }}</p>
         <h2 class="h4 mt-0">Build your site your way</h2>
-        <p><a href="{{ "docs/general/introduction/" | relURL }}">Get started</a> with the tutorial or quick start. Use Doks as a starter or child theme. Easily switch main functionalities on/off — pick only what fits your use case. Get help if you need it.</p>
+        <p>Get started with the tutorial or quick start. Use Doks as a starter or child theme. Easily switch main functionalities on/off — pick only what fits your use case. Get help if you need it.</p>
       </div>
 
       <div class="col-lg-7">
@@ -126,7 +126,7 @@
   </div>
 </section>
 
-{{ partial "main/get-started.html" . -}}
+<!-- {{ partial "main/get-started.html" . -}} -->
 
 <section class="section section-sm mt-3 pt-3">
   <div class="container">
@@ -153,7 +153,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-12 col-lg-10 col-xl-8">
-        {{ partial "sidebar/newsletter.html" . -}}
+        <!-- {{ partial "sidebar/newsletter.html" . -}} -->
       </div>
     </div>
   </div>
