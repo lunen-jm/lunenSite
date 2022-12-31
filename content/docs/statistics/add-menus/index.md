@@ -25,7 +25,7 @@ Open `./config/_default/menus/menus.en.toml` in your code editor.
 ```toml
 [[main]]
   name = "Docs"
-  url = "/docs/overview/introduction/"
+  url = "/docs/general/introduction/"
   weight = 10
 
 [[main]]
