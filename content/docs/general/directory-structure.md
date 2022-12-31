@@ -46,7 +46,7 @@ See also the Hugo docs: [Directory Structure](https://gohugo.io/getting-started/
 └── docs.md
 ```
 
-See also: [Archetypes]({{< relref "archetypes" >}}).
+
 
 ### assets
 
@@ -66,7 +66,7 @@ See also: [Archetypes]({{< relref "archetypes" >}}).
     └── app.scss
 ```
 
-See also: [Assets]({{< relref "assets" >}})
+
 
 ### config
 
@@ -81,7 +81,6 @@ See also: [Assets]({{< relref "assets" >}})
 └── postcss.config.js
 ```
 
-See also: [Project Configuration]({{< relref "project-configuration" >}}).
 
 ### content
 
@@ -93,7 +92,7 @@ See also: [Project Configuration]({{< relref "project-configuration" >}}).
 └── _index.md
 ```
 
-See also: [Pages]({{< relref "pages" >}}).
+
 
 ### data
 
@@ -145,7 +144,7 @@ See the Hugo docs: [Data Templates](https://gohugo.io/templates/data-templates/)
 └── sitemap.xml
 ```
 
-See also: [Layouts]({{< relref "layouts" >}}).
+
 
 ### static
 

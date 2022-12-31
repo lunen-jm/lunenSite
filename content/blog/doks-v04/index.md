@@ -21,8 +21,6 @@ Now you can have a multi level section menu (three levels deep). Available for b
 
 Works with the breadcrumb option if set.
 
-[Menus →]({{< relref "menus#add-to-docs-menu" >}})
-
 ## Auto generated section menu
 
 ```toml
