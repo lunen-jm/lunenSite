@@ -47,7 +47,7 @@
 
 [[main]]
   name = "VBA"
-  url = "/vba/general/introduction/"
+  url = "/vba/introVBA/test2/"
   weight = 30
 
   [[vba]]
