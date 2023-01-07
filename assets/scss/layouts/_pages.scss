@@ -94,3 +94,16 @@ p.meta {
 .section-open-collective {
   padding: 5rem 0;
 }
+
+.vba-content > h2[id]::before,
+.vba-content > h3[id]::before,
+.vba-content > h4[id]::before {
+  display: block;
+  height: 6rem;
+  margin-top: -6rem;
+  content: "";
+}
+
+.vba-toc-ad {
+  margin: 1.5rem 0;
+}

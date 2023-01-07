@@ -8,3 +8,14 @@ var docs = [
   },
 {{ end -}}
 ];
+
+var vba = [
+  {{ range $index, $page := (where .Site.Pages "Section" "vba") -}}
+    {
+      id: {{ $index }},
+      title: "{{ .Title }}",
+      description: "{{ .Params.description }}",
+      href: "{{ .URL | relURL }}"
+    },
+  {{ end -}}
+  ];
