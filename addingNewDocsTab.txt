@@ -181,5 +181,6 @@ var docs = [
     
     * In header.html in the header folder in partials, duplicate the docs section (93-147), and change it to vba or vice versa 
 
-
+    * Note, that the menu link needs to redirect to the splash one 
+    * Also, have the weight for individual documents in each section in the same hundred-range
     

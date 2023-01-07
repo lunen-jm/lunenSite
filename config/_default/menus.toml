@@ -47,19 +47,19 @@
 
 [[main]]
   name = "VBA"
-  url = "/vba/"
+  url = "/vba/general/introduction/"
   weight = 30
 
   [[vba]]
-    name = "Browse"
+    name = "Introduction to VBA"
     weight = 10
-    identifier = "Introduction"
-    url = "/vba/introduction/"
+    identifier = "introVBA"
+    url = "/vba/introVBA/"
 
   [[vba]]
-    name = "Browse"
+    name = "Basic Scripts"
     weight = 20
-    identifier = "Basic Scripts"
+    identifier = "basicScripts"
     url = "/vba/basicScripts/"
 
 [[main]]
