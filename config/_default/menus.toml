@@ -54,13 +54,13 @@
     name = "Browse"
     weight = 10
     identifier = "Introduction"
-    url = "/introduction/"
+    url = "/vba/introduction/"
 
   [[vba]]
     name = "Browse"
     weight = 20
     identifier = "Basic Scripts"
-    url = "/basicScripts/"
+    url = "/vba/basicScripts/"
 
 [[main]]
   name = "Showcase"
