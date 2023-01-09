@@ -1,59 +1,82 @@
-[[docs]]
-  name = "General"
+[[main]]
+  name = "Docs"
+  url = "/docs/general/1r-overview/"
   weight = 10
-  identifier = "general"
-  url = "/docs/general/"
 
-[[docs]]
-  name = "Statistics"
-  weight = 20
-  identifier = "statistics"
-  url = "/docs/statistics/"
+  [[docs]]
+    name = "Introduction to R"
+    weight = 10
+    identifier = "general"
+    url = "/docs/general/"
 
-[[docs]]
-  name = "How-To"
+  [[docs]]
+    name = "Working with Data"
+    weight = 20
+    identifier = "data"
+    url = "/docs/data/"
+
+  [[docs]]
+    name = "Stat Analysis & Research"
+    weight = 30
+    identifier = "statistics"
+    url = "/docs/statistics/"
+
+  [[docs]]
+    name = "Charts"
+    weight = 40
+    identifier = "charts"
+    url = "/docs/charts/"
+
+  [[docs]]
+    name = "Tools"
+    weight = 50
+    identifier = "tools"
+    url = "/docs/tools/"
+
+  [[docs]]
+    name = "Miscellaneous Others"
+    weight = 60
+    identifier = "miscOthers"
+    url = "/docs/miscOthers/"
+
+  # [[docs]]
+  #   name = "Lorem"
+  #   weight = 70
+  #   identifier = "lorem"
+  #   url = "/docs/lorem/"
+
+[[main]]
+  name = "VBA"
+  url = "/vba/introduction/1introduction-to-macros/"
   weight = 30
-  identifier = "how-to"
-  url = "/docs/how-to/"
 
-[[docs]]
-  name = "Charts"
-  weight = 40
-  identifier = "charts"
-  url = "/docs/charts/"
+  [[vba]]
+    name = "Introduction to VBA"
+    weight = 10
+    identifier = "introduction"
+    url = "/vba/introduction/"
 
-[[docs]]
-  name = "Tools"
-  weight = 50
-  identifier = "tools"
-  url = "/docs/tools/"
-
-[[docs]]
-  name = "Miscellaneous Others"
-  weight = 60
-  identifier = "miscOthers"
-  url = "/docs/miscOthers/"
-
-# [[docs]]
-#   name = "Lorem"
-#   weight = 70
-#   identifier = "lorem"
-#   url = "/docs/lorem/"
+  [[vba]]
+    name = "Basic Scripts"
+    weight = 20
+    identifier = "basicScripts"
+    url = "/vba/basicScripts/"
 
 [[main]]
   name = "Showcase"
   url = "/showcase/"
-  weight = 10
+  weight = 30
 
-[[main]]
-  name = "Docs"
-  url = "/docs/general/introduction/"
-  weight = 20
+  [[showcase]]
+    name = "Browse"
+    weight = 10
+    identifier = "browse"
+    url = "/showcase/"
 
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 30
+  weight = 40
 
 [[social]]
   name = "GitHub"
@@ -84,8 +107,4 @@
 #   url = "https://opencollective.com/doks"
 #   weight = 40
 
-[[showcase]]
-  name = "Browse"
-  weight = 10
-  identifier = "browse"
-  url = "/showcase/"
+
