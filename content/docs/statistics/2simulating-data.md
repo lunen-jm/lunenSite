@@ -99,7 +99,7 @@ This works, because random numbers aren't actually random (shocking!). They stem
 
 First, we're going to go over a linear model, which is essentially a linear equation representing the variation in data. Here is an example of one:
 
-![](/lunenSite/static/screenshots/linearModelEx.png)
+![](/screenshots/linearModelEx.png)
 
 The model above has a single input, which is defined by x. There is also a random noise variable, which is the small E.
 
@@ -133,7 +133,7 @@ plot(x, y)
 
 For this one, we are going to evaluate the following poisson model:
 
-![](/lunenSite/static/screenshots/poissonModelEx.png)
+![](/screenshots/poissonModelEx.png)
 
 This is saying that y is equal to a poisson model of mu (u shaped thing). Since we know that log(u) is equal to .6+.3x, we can put log(u) (which is exp(logMu)) into the poisson model to get y.
 
