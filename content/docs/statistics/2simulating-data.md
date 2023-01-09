@@ -1,5 +1,17 @@
-
-
+---
+title: "Simulating Data"
+description: "Figure out how to do image referencing!"
+lead: "Figure out how to do image referencing!"
+date: 2020-11-17T20:11:42+01:00
+lastmod: 2020-11-17T20:11:42+01:00
+draft: false
+images: []
+menu:
+  docs:
+    parent: "statistics"
+weight: 020
+toc: true
+---
 
 # Simulating Data and Models
 
