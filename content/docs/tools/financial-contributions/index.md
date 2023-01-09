@@ -1,7 +1,7 @@
 ---
 title: "Financial Contributions"
-description: "Help support the team developing Doks by becoming a financial contributor."
-lead: "Help support the team developing Doks by becoming a financial contributor."
+description: "keeping this rn to figure out image stuff later, maybe try a folder like this???"
+lead: "keeping this rn to figure out image stuff later, maybe try a folder like this???"
 date: 2022-02-05T20:40:38+01:00
 lastmod: 2022-02-05T20:40:38+01:00
 draft: false
