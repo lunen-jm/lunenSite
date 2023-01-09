@@ -57,8 +57,14 @@
     url = "/vba/introduction/"
 
   [[vba]]
-    name = "Basic Scripts"
+    name = "Excel Concepts"
     weight = 20
+    identifier = "excel"
+    url = "/vba/excel/"
+
+  [[vba]]
+    name = "Basic Scripts"
+    weight = 30
     identifier = "basicScripts"
     url = "/vba/basicScripts/"
 

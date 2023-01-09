@@ -6,7 +6,9 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.Lead | safeHTML }}</p>
-      <p> <!-- class="btn btn-primary btn-lg px-4 mb-2" href="{{ "docs/general/introduction/" | relURL }}" role="button"-->Get Started</p>
+      <p> <!-- class="btn btn-primary btn-lg px-4 mb-2" href="{{ "docs/general/introduction/" | relURL }}" role="button"-->
+        Currently, the "Docs" tab houses all of the R notes (and supporting tools), and the "VBA" tab has VBA. The Showcase and Blog tabs are still in production (it may be a while!)
+      </p>
       <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "https://raw.githubusercontent.com/h-enk/doks/master/package.json" }}{{ $data.version }}</a></p>
     </div>
   </div>
