@@ -1,9 +1,9 @@
 ---
-title: "Basic Scripts"
+title: "Excel Concepts"
 description: ""
 date: 2020-11-17T19:48:27+01:00
 lastmod: 2020-11-17T19:48:27+01:00
 draft: false
 images: []
-weight: 30
+weight: 20
 ---
