@@ -9,8 +9,8 @@ images: []
 menu:
   docs:
     parent: "contributing"
-weight: 515
-toc: true
+weight:
+toc: false
 ---
 
 We use [Open Collective](https://opencollective.com/) to receive contributions, share our budget, and manage expenses. Visit the [Doks Open Collective page](https://opencollective.com/doks).
