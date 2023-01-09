@@ -145,7 +145,7 @@ plot(x, y)
 
 For this one, we are going to evaluate the following poisson model:
 
-add this in: screenshots/poissonModelEx.png
+add this in: ![](poissonModelEx.png)
 
 This is saying that y is equal to a poisson model of mu (u shaped thing). Since we know that log(u) is equal to .6+.3x, we can put log(u) (which is exp(logMu)) into the poisson model to get y.
 

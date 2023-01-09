@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Charts and Graphics"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+description: "Figure out how to get charts to show up in here"
+lead: "Figure out how to get charts to show up in here"
 date: 2023-1-09T08:48:57+00:00
 lastmod: 2023-1-09T08:48:57+00:00
 draft: false
