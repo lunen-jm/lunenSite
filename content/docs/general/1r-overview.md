@@ -1,14 +1,14 @@
 ---
 title: "R Overview and History"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+description: "Fix this for all pages"
+lead: "Fix this for all pages"
 date: 2023-1-09T08:48:57+00:00
 lastmod: 2023-1-09T08:48:57+00:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "general"
+    parent: "introduction"
 weight: 010
 toc: true
 ---
