@@ -1,25 +1,25 @@
 [[main]]
   name = "Docs"
-  url = "/docs/general/introduction/"
+  url = "/docs/general/1r-overview/"
   weight = 10
 
   [[docs]]
-    name = "General"
+    name = "Introduction to R"
     weight = 10
     identifier = "general"
     url = "/docs/general/"
 
   [[docs]]
-    name = "Statistics"
+    name = "Working with Data"
     weight = 20
-    identifier = "statistics"
-    url = "/docs/statistics/"
+    identifier = "data"
+    url = "/docs/data/"
 
   [[docs]]
-    name = "How-To"
+    name = "Stat Analysis & Research"
     weight = 30
-    identifier = "how-to"
-    url = "/docs/how-to/"
+    identifier = "statistics"
+    url = "/docs/statistics/"
 
   [[docs]]
     name = "Charts"

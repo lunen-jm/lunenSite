@@ -1,5 +1,5 @@
 ---
-title: "How-to Guides"
+title: "Working with Data"
 description: "Find quick answers for how to accomplish some specific, common tasks with Doks."
 lead: ""
 date: 2020-04-20T11:52:49+02:00
