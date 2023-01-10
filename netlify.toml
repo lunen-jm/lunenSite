@@ -29,7 +29,7 @@
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-    baseUrl = "https://getdoks.org"
+    baseUrl = "https://lunen.netlify.app"
     sitemapPath = "/sitemap.xml"
     ignorePeriod = 0
     providers = [
