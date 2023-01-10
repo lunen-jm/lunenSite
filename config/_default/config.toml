@@ -1,4 +1,4 @@
-baseURL = "https://getdoks.org/"
+baseURL = "https://lunen.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
